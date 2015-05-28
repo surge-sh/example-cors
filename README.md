@@ -52,7 +52,7 @@ https://surge.sh
 
 ### Publishing your project
 
-Your project should now have a `CORS` file inside the root of the directory you are going to deploy. [Publish it by running `surge ./path/to/my-project`](/help/getting-started-with-surge):
+Your project should now have a `CORS` file inside the root of the directory you are going to deploy. [Publish it by running `surge ./path/to/my-project`](https://surge.sh/help/getting-started-with-surge):
 
 ```
 surge ./src
