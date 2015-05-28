@@ -1,6 +1,6 @@
 {
   "name": "@surge/example-cors",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An example project using Cross-Origin Resource Sharing on Surge.",
   "homepage": "https://surge.sh/help/enabling-cross-origin-resource-sharing",
   "license": "MIT",
