@@ -1,0 +1,23 @@
+{
+  "name": "@surge/example-cors",
+  "version": "0.0.0",
+  "description": "An example project using Cross-Origin Resource Sharing on Surge.",
+  "homepage": "https://surge.sh/help/enabling-cross-origin-resource-sharing",
+  "license": "MIT",
+  "private": true,
+  "author": "Kenneth Ormandy <kenneth@surge.sh> (http://kennethormandy.com)",
+  "contributors": [
+    "Kenneth Ormandy <kenneth@surge.sh> (http://kennethormandy.com)",
+    "Brock Whitten   <brock@surge.sh>   (http://sintaxi.com)"
+  ],
+  "repository": "git@github.com:surge-sh/example-cors.git",
+  "keywords": ["surge", "surge.sh", "example", "cors"],
+  "devDependencies": {
+    "mocha": "2.2.5",
+    "surge": "latest"
+  },
+  "scripts": {
+    "compile": "echo \"If you’re using a static site generator or other compilation step, you could run it here!\"",
+    "deploy": "npm run compile && surge --project ./src"
+  }
+}
