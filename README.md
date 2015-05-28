@@ -1,6 +1,6 @@
 # CORS example
 
-An example using [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) via [a CORS file on Surge](https://surge.sh/help for continuous deployment to [Surge.sh](http://localhost:5001/help/enabling-cross-origin-resource-sharing).
+An example using [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) via [a CORS file on Surge](https://surge.sh/help).
 
 **Note** `CORS` support will be a paid feature on Surge in the near future. When you publish, you’ll be prompted to upgrade your project if you haven’t already. If you have any questions, just mention [@surge_sh](https://twitter.com/surge_sh) on Twitter.
 
