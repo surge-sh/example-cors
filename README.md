@@ -31,7 +31,7 @@ Allow your fonts, SVG files, and other resources to be accessed client-side from
 You can also create this file and add `*` into it, all with one command:
 
 ```
-echo * > CORS
+echo '*' > CORS
 ```
 
 ### Adding CORS for specific domains only
